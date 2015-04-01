@@ -1,6 +1,6 @@
 # Icons
 
-At present the contents of this repository are drawings created by numerous contributors at an [IconLocal](https://openitp.org/design-tools/how-can-we-use-icons-to-communicate-about-security-and-privacy-an-iconlocal.html) design-a-thon at a conference. The current icons posted here relate to **security & privacy** and more information about the effort is described by @gusandrews in [this post about the event](http://gandre.ws/blog/blog/2015/03/25/ctf-iconlocal-rough-sketches/)
+At present the contents of this repository are drawings created by numerous contributors at an [IconLocal](https://openitp.org/design-tools/how-can-we-use-icons-to-communicate-about-security-and-privacy-an-iconlocal.html) design-a-thon at a conference. The current icons posted here relate to **security & privacy** and more information about the effort is described by [@gusandrews](https://github.com/gusandrews) in [this post about the event](http://gandre.ws/blog/blog/2015/03/25/ctf-iconlocal-rough-sketches/)
 
 *The loose idea of this repo is to apply aspects of open source software development (sharing, iteration, forking, extending, and modifying) to the icon design process.*
 
